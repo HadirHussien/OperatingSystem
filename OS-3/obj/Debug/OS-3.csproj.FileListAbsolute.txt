@@ -1,0 +1,13 @@
+D:\OS-3\OS-3\bin\Debug\OS-3.exe.config
+D:\OS-3\OS-3\bin\Debug\OS-3.exe
+D:\OS-3\OS-3\bin\Debug\OS-3.pdb
+D:\OS-3\OS-3\obj\Debug\OS-3.csprojResolveAssemblyReference.cache
+D:\OS-3\OS-3\obj\Debug\OS-3.exe
+D:\OS-3\OS-3\obj\Debug\OS-3.pdb
+H:\hadir\هدير\منهج 3 ترم ثاني\os\OS-3\OS-3\OS-3\bin\Debug\OS-3.exe.config
+H:\hadir\هدير\منهج 3 ترم ثاني\os\OS-3\OS-3\OS-3\bin\Debug\OS-3.exe
+H:\hadir\هدير\منهج 3 ترم ثاني\os\OS-3\OS-3\OS-3\bin\Debug\OS-3.pdb
+H:\hadir\هدير\منهج 3 ترم ثاني\os\OS-3\OS-3\OS-3\obj\Debug\OS-3.csprojAssemblyReference.cache
+H:\hadir\هدير\منهج 3 ترم ثاني\os\OS-3\OS-3\OS-3\obj\Debug\OS-3.csproj.CoreCompileInputs.cache
+H:\hadir\هدير\منهج 3 ترم ثاني\os\OS-3\OS-3\OS-3\obj\Debug\OS-3.exe
+H:\hadir\هدير\منهج 3 ترم ثاني\os\OS-3\OS-3\OS-3\obj\Debug\OS-3.pdb
